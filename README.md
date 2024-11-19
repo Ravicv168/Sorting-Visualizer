@@ -31,7 +31,7 @@ Instructions to Run the Project:
 Clone the repository to your local machine:
 
 git clone https://github.com/Ravicv168/Sorting-Visualizer.git
-Open the index.html file in your browser to start the visualizer.
+Open the sort.html file in your browser to start the visualizer.
 
 Interact with the sorting visualizer:
 
