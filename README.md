@@ -30,7 +30,7 @@ Helped users compare the efficiency of algorithms by understanding the impact of
 Instructions to Run the Project:
 Clone the repository to your local machine:
 
-git clone https://github.com/Ravicv168/sorting-visualizer.git
+git clone https://github.com/Ravicv168/Sorting-Visualizer.git
 Open the index.html file in your browser to start the visualizer.
 
 Interact with the sorting visualizer:
