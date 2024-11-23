@@ -29,10 +29,10 @@ Helped users compare the efficiency of algorithms by understanding the impact of
 
 ## Instructions to Run the Project:
 ### Clone the repository to your local machine:
-git clone https://github.com/Ravicv168/Sorting-Visualizer.git.
-Open the sort.html file in your browser to start the visualizer.
+    git clone https://github.com/Ravicv168/Sorting-Visualizer.git.
+    Open the sort.html file in your browser to start the visualizer.
 
 ### Interact with the sorting visualizer:
-Adjust the array size.
-Control the sorting speed.
-Select the sorting algorithm.
+  - Adjust the array size.
+  - Control the sorting speed.
+  - Select the sorting algorithm.
