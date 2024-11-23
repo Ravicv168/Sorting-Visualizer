@@ -3,12 +3,12 @@ This Sorting Visualizer project demonstrates various sorting algorithms through 
 
 ## The project features the following sorting algorithms:
 
-Bubble Sort
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Heap Sort
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
 
 The algorithms are implemented with optimal time and space complexities to help understand their efficiency. The visualizer allows users to control the speed of the algorithm execution and visualize how elements change positions at each step
 
@@ -16,26 +16,23 @@ The algorithms are implemented with optimal time and space complexities to help 
 ### Sorting Algorithms Implementation:
 
 #### Implemented common sorting algorithms with correct time and space complexity:
-Bubble Sort: O(n^2) worst-case time complexity.
-Selection Sort: O(n^2) worst-case time complexity.
-Insertion Sort: O(n^2) worst-case time complexity.
-Merge Sort: O(n log n) worst-case time complexity.
-Quick Sort: O(n log n) average time complexity.
-Heap Sort: O(n log n) worst-case time complexity.
+  - Bubble Sort: O(n^2) worst-case time complexity.
+  - Selection Sort: O(n^2) worst-case time complexity.
+  - Insertion Sort: O(n^2) worst-case time complexity.
+  - Merge Sort: O(n log n) worst-case time complexity.
+  - Quick Sort: O(n log n) average time complexity.
+  - Heap Sort: O(n log n) worst-case time complexity.
 
 #### Understanding Algorithm Efficiency (Time and Space Complexity):
 Displayed time complexity of each sorting algorithm (Best, Worst, and Average cases).
 Helped users compare the efficiency of algorithms by understanding the impact of data size on performance.
 
-
 ## Instructions to Run the Project:
 ### Clone the repository to your local machine:
-
-git clone https://github.com/Ravicv168/Sorting-Visualizer.git
+git clone https://github.com/Ravicv168/Sorting-Visualizer.git.
 Open the sort.html file in your browser to start the visualizer.
 
 ### Interact with the sorting visualizer:
-
 Adjust the array size.
 Control the sorting speed.
 Select the sorting algorithm.
